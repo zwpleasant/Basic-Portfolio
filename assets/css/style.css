@@ -1,0 +1,54 @@
+* {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+  max-width: 960px;
+  box-sizing: border-box;
+}
+body {
+  background-image: "images/cartographer_background.png";
+  background-color: black;
+}
+header {
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: #cccccc;
+  text-align: right;
+  width: 100%;
+  height: 40px;
+  padding: 40px;
+}
+footer {
+  background-color: #666666;
+  text-align: center;
+  color: white;
+  height: 100px;
+  width: 100%;
+}
+div {
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: #dddddd;
+}
+.AboutMe {
+  max-width: 650px;
+}
+.Connect {
+  position: fixed;
+  max-width: 270px;
+}
+.Portfolio {
+  max-width: 270px;
+}
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color: #4aaaa5;
+  color: white;
+}
+h2 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #4aaaa5;
+}
+h3 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #4aaaa5;
+}
