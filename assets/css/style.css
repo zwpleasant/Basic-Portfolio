@@ -17,11 +17,16 @@ header {
   padding: 40px;
 }
 footer {
+  border-top-style: solid;
+  border-top-width: 7px;
+  border-top-color: #4aaaa5;
   background-color: #666666;
   text-align: center;
   color: white;
   height: 100px;
   width: 100%;
+  padding-top: 40px;
+  font-size: 12px;
 }
 div {
   background-color: #ffffff;
