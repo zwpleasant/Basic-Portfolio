@@ -40,15 +40,15 @@ footer {
   text-align: center;
   font-size: 14px;
   color: white;
-  position: absolute;
   left: 0;
   bottom: 0;
   border-top-color: #4aaaa5;
   border-top-style: solid;
   border-top-width: 10px;
-  padding-bottom: 40px;
-  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-top: 30px;
   clear: both;
+  margin-top: 40px;
 }
 .content {
   max-width: 960px;
